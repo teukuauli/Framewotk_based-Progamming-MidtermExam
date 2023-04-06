@@ -46,7 +46,7 @@ namespace IUP_BMI_Calculator.ViewModel
         [RelayCommand]
         public void Save()
         {
-            // TO DO
+            
            
 
         }
@@ -54,7 +54,9 @@ namespace IUP_BMI_Calculator.ViewModel
         [RelayCommand]
         public void Clear()
         {
-            // TODO
+            Name = "";
+            Height = 0;
+            Weight = 0;
         }
 
     }
