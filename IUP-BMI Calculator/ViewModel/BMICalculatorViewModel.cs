@@ -47,7 +47,7 @@ namespace IUP_BMI_Calculator.ViewModel
         public void Save()
         {
             // TO DO
-            App.
+           
 
         }
 
